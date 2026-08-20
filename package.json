@@ -59,6 +59,7 @@
   "pi": {
     "extensions": [
       "./extensions/index.ts"
-    ]
+    ],
+    "video": "https://raw.githubusercontent.com/fanzeyi/pi-raw-mode/main/demo.mp4"
   }
 }

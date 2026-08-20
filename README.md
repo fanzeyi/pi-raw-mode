@@ -14,6 +14,10 @@ const answer = 42;
 ```
 ````
 
+## Demo
+
+[Watch the raw-mode demo](https://raw.githubusercontent.com/fanzeyi/pi-raw-mode/main/demo.mp4)
+
 ## Install
 
 From npm:
