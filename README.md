@@ -16,7 +16,7 @@ const answer = 42;
 
 ## Demo
 
-[Watch the raw-mode demo](https://raw.githubusercontent.com/fanzeyi/pi-raw-mode/main/demo.mp4)
+https://github.com/user-attachments/assets/27428d08-38f2-46e1-b250-200232dd2d82
 
 ## Install
 
